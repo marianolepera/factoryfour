@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Factory-four challenge.\
+live:
+https://factoryfour.netlify.app/
 
 ## Available Scripts
 
