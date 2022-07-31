@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Factory-four challenge
+Factory-four challenge.\
 live:
 https://factoryfour.netlify.app/
 
