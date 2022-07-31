@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 Factory-four challenge
+live:
+https://factoryfour.netlify.app/
 
 ## Available Scripts
 
